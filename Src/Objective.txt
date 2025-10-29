@@ -1,0 +1,10 @@
+3. ✅ Src/
+Purpose: Python scripts for reusable code, logic, and pipeline.
+
+Split like this:
+
+preprocessing.py → Functions for scaling, splitting, SMOTE, etc.
+
+model.py → Train, evaluate, save models
+
+utils.py → Helper functions (e.g., plotting, metrics)

@@ -1,0 +1,7 @@
+1. ✅ Data/
+Purpose: Store your datasets (raw or preprocessed).
+
+Download and place the creditcard.csv file from Kaggle here.
+
+You can also create a processed/ subfolder later if you want to store cleaned versions.
+
