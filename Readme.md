@@ -1,4 +1,4 @@
-### 📌 Project 1: Credit Card Fraud Detection System
+### 📌 project 1: Credit Card Fraud Detection System
 
 **Domain**: Finance, Banking, Cybersecurity  
 **Goal**: Predict fraudulent transactions using supervised machine learning while addressing class imbalance.
